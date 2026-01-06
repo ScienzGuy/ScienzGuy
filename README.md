@@ -38,4 +38,4 @@ I am currently working through a structured 3-month curriculum to master the "Bi
 
 ## 📫 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/jason-w-bliss/]
-- **Resume:** [Link to your PDF Resume on Google Drive]
+- **Resume:** [https://drive.google.com/file/d/1jODq5ow24CBPY9-I5B5IoC1xZAEEB2hL/view?usp=sharing]
