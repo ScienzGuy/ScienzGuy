@@ -28,7 +28,7 @@ I am currently working through a structured 3-month curriculum to master the "Bi
 
 ### 🔹 [AWS AI Practitioner Lab: Automated Document Analysis]
 *Applied Amazon Textract to automate the extraction of structured data from non-digital invoices, reducing manual entry time.*
-[View Repository](#) 
+[View Repository](https://github.com/ScienzGuy/AWS-AI-Practitioner-Journey)
 
 ### 🔹 [Prompt Engineering for Business Strategy]
 *A curated library of structured prompts for complex business tasks, including document summarization and sentiment analysis using Claude 3.5.*
