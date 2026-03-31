@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👋
 
-### 🚀 Infrastructure Professional | Aspiring AI Specialist
+### 🚀 Infrastructure Professional | AI Specialist
 I am a seasoned infrastructure specialist currently executing a comprehensive "Winter of AI" upskilling roadmap. My focus is on bridging the gap between legacy cloud infrastructure and modern Generative AI solutions. 
 
 ---
