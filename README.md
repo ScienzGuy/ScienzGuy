@@ -6,11 +6,16 @@ I am a seasoned infrastructure specialist currently executing a comprehensive "W
 ---
 
 ## 🏆 2026 Certification Roadmap
-I am currently working through a structured 3-month curriculum to master the "Big Three" AI ecosystems.
+I am currently working through a structured 6-month curriculum to master the "Big Three" AI ecosystems and the major development platforms.
 
-- [ ] **AWS Certified AI Practitioner** *(Target: Jan 2026)* 🏗️ 
-- [ ] **Microsoft Azure AI Fundamentals (AI-900)** *(Target: Feb 2026)* ☁️
-- [ ] **Google AI Essentials** *(Target: March 2026)* 🤖
+- [X] **AWS Certified AI Practitioner** *February 2026*
+- [X] **Microsoft Azure AI Fundamentals** *March 2026*
+- [X] **Google Cloud Digital Leader** *March 2026*
+- [ ] **OpenAI Associate / xAI Grok Associate** *April 2026*
+- [ ] **MetaAI Associate** *April 2026*
+- [ ] **Copilot Applied Skills** *May 2026*
+- [ ] **Nvidia/IBM DeepLearning** *May 2026*
+- [ ] **DeepLearning.AI - Generative AI for Everyone** *May 2026*
 
 ---
 
