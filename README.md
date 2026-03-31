@@ -45,7 +45,7 @@ A real-time aerial data pipeline and hardware tracking station. Features the **T
 ### [TON618](https://github.com/ScienzGuy/Pi-Project-TON618) | Network Security & Traffic Hub
 The laboratory’s security anchor, providing DNS-sinkholing (Pi-hole), encrypted remote access (WireGuard), and local traffic orchestration.
 
-### [Analemma](https://github.com/ScienzGuy/Astrophotography-Project-Lazy8) | Project Lazy-8
+### [Lazy-8](https://github.com/ScienzGuy/Astrophotography-Project-Lazy8) | Analemma Astrophotgraphy
 A year-long chronophotography and solar dynamics project documenting the **Equation of Time** through precision optics and environmental logging.
 
 ---
