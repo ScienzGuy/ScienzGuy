@@ -33,22 +33,19 @@ I am currently working through a structured 6-month curriculum to master the "Bi
 ## 🛠️ The Laboratory Ecosystem
 My personal GitHub is a unified environment where infrastructure meets intelligence. All projects are integrated via a centralized monitoring and security framework.
 
-### [GAIa](https://github.com/ScienzGuy/GAIa) | Generative AI Assistant
+### [GAIa](https://github.com/ScienzGuy/Pi-Project-GAIa) | Generative AI Assistant
 A modular **LLMOps** and **RAG** framework designed for agentic workflows. GAIa handles complex reasoning by integrating local data with Large Language Models.
 
-### [Jupiter](https://github.com/ScienzGuy/Jupiter) | Distributed Edge Cluster
-A high-availability, 6-node **Raspberry Pi 5** cluster running **Fedora Linux**. This serves as the primary compute engine for local LLM inference, microservices, and laboratory automation.
-
-### [Theia](https://github.com/ScienzGuy/Theia) | Observability & BOINC Cluster
+### [Theia](https://github.com/ScienzGuy/Pi-Project-Theia) | Observability & BOINC Cluster
 The "nervous system" of the lab. Theia provides real-time monitoring and telemetry while concurrently managing a high-density **BOINC** cluster for **Einstein@Home**, **Asteroids@home**, and **PrimeGrid**.
 
-### [Polaris](https://github.com/ScienzGuy/Polaris) | ADS-B Telemetry & Telegraph Alerts
+### [miniNORAD](https://github.com/ScienzGuy/Pi-Project-miniNORAD) | ADS-B Telemetry & Telegraph Alerts
 A real-time aerial data pipeline and hardware tracking station. Features the **Telegraph** notification engine for sub-second alerts on Military, VIP, and Medevac aircraft.
 
-### [TON618](https://github.com/ScienzGuy/TON618) | Network Security & Traffic Hub
+### [TON618](https://github.com/ScienzGuy/Pi-Project-TON618) | Network Security & Traffic Hub
 The laboratory’s security anchor, providing DNS-sinkholing (Pi-hole), encrypted remote access (WireGuard), and local traffic orchestration.
 
-### [Analemma](https://github.com/ScienzGuy/Analemma) | Project Lazy-8
+### [Analemma](https://github.com/ScienzGuy/Astrophotography-Project-Lazy8) | Project Lazy-8
 A year-long chronophotography and solar dynamics project documenting the **Equation of Time** through precision optics and environmental logging.
 
 ---
