@@ -24,9 +24,12 @@ I am currently working through a structured 6-month curriculum to master the "Bi
 ## 🛠️ Technical Toolkit
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud Infrastructure** | AWS (EC2, S3, IAM), Cloud Networking, Infrastructure as Code |
-| **Artificial Intelligence** | Amazon Bedrock, SageMaker, Prompt Engineering, RAG Pipelines |
-| **Modern Workflow** | GitHub, Technical Documentation, LLM Orchestration |
+| **Cloud Infrastructure** | AWS (EC2, S3, IAM), Azure, Google Cloud, Infrastructure as Code (IaC), HA Cluster Orchestration |
+| **Generative AI / ML** | Amazon Bedrock, SageMaker, RAG Pipelines, Agentic Workflows, Prompt Engineering, LLMOps |
+| **Distributed Systems** | Raspberry Pi 5 (Jupiter Cluster), Fedora Linux, Docker, Kubernetes, BOINC (Theia) |
+| **Data & Networking** | ADS-B Telemetry (Polaris), DNS-sinkholing (TON618), WireGuard VPN, SQL, Python, Asynchronous Logic |
+| **Observability & Security** | Real-time Telemetry (Theia), Event-driven Alerts (Telegraph), IAM, NIST, SOX/PII Compliance |
+| **Modern Workflow** | GitHub, Technical Documentation, CI/CD, Agile Methodology |
 
 ---
 
