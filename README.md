@@ -36,6 +36,9 @@ I am currently working through a structured 6-month curriculum to master the "Bi
 ## 🛠️ The Laboratory Ecosystem
 My personal GitHub is a unified environment where infrastructure meets intelligence. All projects are integrated via a centralized monitoring and security framework.
 
+### [Jupiter](https://github.com/ScienzGuy/Pi-Project-Jupiter) | Distributed Edge Cluster
+A high-availability, 6-node Raspberry Pi 5 cluster running Fedora Linux. This serves as the primary compute engine for local LLM inference, microservices, and laboratory automation.
+
 ### [GAIA](https://github.com/ScienzGuy/Pi-Project-GAIa) | Generative AI Assistant
 A modular **LLMOps** and **RAG** framework designed for agentic workflows. GAIa handles complex reasoning by integrating local data with Large Language Models.
 
