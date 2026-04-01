@@ -39,6 +39,9 @@ My personal GitHub is a unified environment where infrastructure meets intellige
 ### [Jupiter](https://github.com/ScienzGuy/Pi-Project-Jupiter) | Distributed Edge Cluster
 A high-availability, 6-node Raspberry Pi 5 cluster running Fedora Linux. This serves as the primary compute engine for local LLM inference, microservices, and laboratory automation.
 
+### [TON618](https://github.com/ScienzGuy/Pi-Project-TON618) | Network Security & Traffic Hub
+The laboratory’s security anchor, providing DNS-sinkholing (Pi-hole), encrypted remote access (WireGuard), and local traffic orchestration.
+
 ### [GAIA](https://github.com/ScienzGuy/Pi-Project-GAIa) | Generative AI Assistant
 A modular **LLMOps** and **RAG** framework designed for agentic workflows. GAIa handles complex reasoning by integrating local data with Large Language Models.
 
@@ -47,9 +50,6 @@ The "nervous system" of the lab. Theia provides real-time monitoring and telemet
 
 ### [miniNORAD](https://github.com/ScienzGuy/Pi-Project-miniNORAD) | ADS-B Telemetry & Telegraph Alerts
 A real-time aerial data pipeline and hardware tracking station. Features the **Telegraph** notification engine for sub-second alerts on Military, VIP, and Medevac aircraft.
-
-### [TON618](https://github.com/ScienzGuy/Pi-Project-TON618) | Network Security & Traffic Hub
-The laboratory’s security anchor, providing DNS-sinkholing (Pi-hole), encrypted remote access (WireGuard), and local traffic orchestration.
 
 ### [Lazy-8](https://github.com/ScienzGuy/Astrophotography-Project-Lazy8) | Analemma Astrophotgraphy
 A year-long chronophotography and solar dynamics project documenting the **Equation of Time** through precision optics and environmental logging.
