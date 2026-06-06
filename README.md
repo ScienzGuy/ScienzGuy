@@ -13,11 +13,11 @@ I am currently working through a structured 6-month curriculum to master the "Bi
 - [X] **AWS Certified AI Practitioner** *February 2026*
 - [X] **Microsoft Azure AI Fundamentals** *March 2026*
 - [X] **Google Cloud Digital Leader** *March 2026*
-- [ ] **OpenAI Associate / xAI Grok Associate** *April 2026*
-- [ ] **MetaAI Associate** *April 2026*
-- [ ] **Copilot Applied Skills** *May 2026*
-- [ ] **Nvidia/IBM DeepLearning** *May 2026*
-- [ ] **DeepLearning.AI - Generative AI for Everyone** *May 2026*
+- [ ] **OpenAI Associate / xAI Grok Associate** *June 2026*
+- [ ] **MetaAI Associate** *June 2026*
+- [ ] **Copilot Applied Skills** *July 2026*
+- [ ] **Nvidia/IBM DeepLearning** *July 2026*
+- [ ] **DeepLearning.AI - Generative AI for Everyone** *August 2026*
 
 ---
 
@@ -28,7 +28,7 @@ I am currently working through a structured 6-month curriculum to master the "Bi
 | **Generative AI / ML** | Amazon Bedrock, SageMaker, RAG Pipelines, Agentic Workflows, Prompt Engineering, LLMOps |
 | **Distributed Systems** | Raspberry Pi 5 (Jupiter Cluster), Fedora Linux, Docker, Kubernetes, BOINC (Theia) |
 | **Data & Networking** | ADS-B Telemetry (Polaris), DNS-sinkholing (TON618), WireGuard VPN, SQL, Python, Asynchronous Logic |
-| **Observability & Security** | Real-time Telemetry (Theia), Event-driven Alerts (Telegraph), IAM, NIST, SOX/PII Compliance |
+| **Observability & Security** | Event-driven Alerts (Telegraph), IAM, NIST, SOX/PII Compliance |
 | **Modern Workflow** | GitHub, Technical Documentation, CI/CD, Agile Methodology |
 
 ---
@@ -42,17 +42,17 @@ A high-availability, 6-node Raspberry Pi 5 cluster running Fedora Linux. This se
 ### [TON618](https://github.com/ScienzGuy/Pi-Project-TON618) | Network Security & Traffic Hub
 The laboratory’s security anchor, providing DNS-sinkholing (Pi-hole), encrypted remote access (WireGuard), and local traffic orchestration.
 
-### [GAIA](https://github.com/ScienzGuy/Pi-Project-GAIa) | Generative AI Assistant
-A modular **LLMOps** and **RAG** framework designed for agentic workflows. GAIa handles complex reasoning by integrating local data with Large Language Models.
-
-### [Theia](https://github.com/ScienzGuy/Pi-Project-Theia) | Observability & BOINC Cluster
-The "nervous system" of the lab. Theia provides real-time monitoring and telemetry while concurrently managing a high-density **BOINC** cluster for **Einstein@Home**, **Asteroids@home**, and **PrimeGrid**.
+### [GAIA](https://github.com/ScienzGuy/Pi-Project-GAIA) | Generative AI Assistant
+A modular **LLMOps** and **RAG** framework designed for agentic workflows. GAIA handles complex reasoning by integrating local data with Large Language Models.
 
 ### [miniNORAD](https://github.com/ScienzGuy/Pi-Project-miniNORAD) | ADS-B Telemetry & Telegraph Alerts
-A real-time aerial data pipeline and hardware tracking station. Features the **Telegraph** notification engine for sub-second alerts on Military, VIP, and Medevac aircraft.
+A real-time aerial data pipeline and hardware tracking station. Features the **Telegraph** notification engine for near-instant alerts on Military, VIP, and Medevac aircraft.
 
 ### [Lazy-8](https://github.com/ScienzGuy/Astrophotography-Project-Lazy8) | Analemma Astrophotgraphy
 A year-long chronophotography and solar dynamics project documenting the **Equation of Time** through precision optics and environmental logging.
+
+### [Theia](https://github.com/ScienzGuy/Pi-Project-Theia) | Grid Computing BOINC Cluster (Retired)
+Theia provides a high-density **BOINC** cluster for grid computing projects such as **Einstein@Home**, **Asteroids@home**, and **PrimeGrid**.
 
 ---
 
